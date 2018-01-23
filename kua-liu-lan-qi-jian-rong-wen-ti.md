@@ -14,7 +14,7 @@
 
 起初決定：[優雅降級與漸進增強](http://www.w3.org/wiki/Graceful_degredation_versus_progressive_enhancement)。兩者都是有效的技術，但使用第一個修復現有項目是有意義的，第二個是新創建的項目。
 
-然後選擇庫以[避免輸入現有代碼](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself)，重點關注三種語言：JavaScript，CSS和HTML。HTML5（+ CSS3）今天是更好的選擇，但必須提供對舊版流覽器的支援。以下庫緩解支持他們：
+然後選擇庫以[避免輸入現有代碼](http://en.wikipedia.org/wiki/Don't_repeat_yourself)，重點關注三種語言：JavaScript，CSS和HTML。HTML5（+ CSS3）今天是更好的選擇，但必須提供對舊版流覽器的支援。以下庫緩解支持他們：
 
 * [modernizr](http://modernizr.com/)用於js或css的特徵檢測和條件載入。
 * [jQuery](http://jquery.com/)的Ajax和DOM相關的任務。
@@ -102,6 +102,4 @@ Google分析。在Google Analytics中按流覽器類型細分非常有用。當�
 顯然，螢幕尺寸，DPI，流覽器版本等方面都存在差異。在這方面你可以做的最好的是迎合最常見的情況，並解決任何問題。
 
 
-
- ��ᇸR
 
