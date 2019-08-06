@@ -1,4 +1,4 @@
-## Bootstrap 框架套件安裝
+### Bootstrap 框架套件安裝
 
 ![](/assets/bootstrap4.jpg)
 
@@ -9,5 +9,5 @@
 1. 使用外部連結到網頁中。
 2. 直接將bootstrap 檔案下載至網頁資料夾中，使用內部連結。
 
-
+**外部連結 **， 點擊首頁的 **Get started **，將css 樣式路徑複製貼進網頁_&lt;head&gt;_與_&lt;/head&gt;_之間。
 
