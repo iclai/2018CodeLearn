@@ -35,7 +35,7 @@
 由於，選單為直式排列，不是我們要的，要將將選單由直向排列，改成橫向排列，在`<nav class>`中加入 `navbar-expand-md` ，讓網頁_大於_ _768px_ 就會變成橫向排列，_小於768px_就會變成直向排列
 
 ```html
-<nav class="navbar navbar-expand-md navbar-dark bg-dark justify-content-between">
+<nav class="navbar navbar-expand-md navbar-dark bg-dark">
 ```
 
 ![](/assets/A05.jpg)
