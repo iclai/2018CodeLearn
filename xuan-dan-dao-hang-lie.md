@@ -4,3 +4,13 @@
 
 ![](/assets/A01.jpg)
 
+> 建立LOGO，將準備好的LOGO圖片置入HTML中
+
+```html
+ <a href="#" class="navbar-brand">
+   <img src="images/logo.png" alt="logo" />
+ </a>
+```
+
+
+
