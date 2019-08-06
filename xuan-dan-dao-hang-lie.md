@@ -30,5 +30,13 @@
 
 ![](/assets/A02_1.jpg)
 
-緊接著要再套入Bootstrap 的css，讓文字變漂亮。如下圖示。![](/assets/A03.jpg)由於，選單為直式排列，不是我們要的，要將將選單由直向排列，改成橫向排列，在`<nav class>`中加入 `navbar-expand-md` ，讓網頁大於 _768px_ 就會變成橫向排列，小於_768px_就會變成直向排列
+緊接著要再套入Bootstrap 的css，讓文字變漂亮。如下圖示。![](/assets/A03.jpg)
+
+由於，選單為直式排列，不是我們要的，要將將選單由直向排列，改成橫向排列，在`<nav class>`中加入 `navbar-expand-md` ，讓網頁_大於_ _768px_ 就會變成橫向排列，_小於768px_就會變成直向排列
+
+```html
+<nav class="navbar navbar-expand-md navbar-dark bg-dark justify-content-between">
+```
+
+![](/assets/A05.jpg)
 
