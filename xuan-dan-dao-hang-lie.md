@@ -54,8 +54,7 @@
  <button class="navbar-toggler" type="button" data-toggle="collapse">
 ```
 
-告訴瀏覽器 type類型是button按鈕類型，data-toggle是指事件觸發，JavaScript用的，data-toggle後面指定觸發的形式要怎麼顯示，有可能是tab\(頁籤\)、dropdown\(下拉\)形式。![](/assets/A07.jpg)![](/assets/A08.jpg)  
-
+告訴瀏覽器 type類型是button按鈕類型，data-toggle是指事件觸發，JavaScript用的，data-toggle後面指定觸發的形式要怎麼顯示，有可能是tab\(頁籤\)、dropdown\(下拉\)形式。![](/assets/A07.jpg)![](/assets/A08.jpg)
 
 設定好漢堡選單類型後，要再加入漢堡ICON，讓摺疊選單可以顯示出來
 
@@ -63,11 +62,9 @@
  <span class="navbar-toggler-icon"></span>
 ```
 
+![](/assets/A09.jpg)
 
-
-```html
- 
-```
+可以從使用者開發工具中看到，Bootstrap 都已經將navbar-toggler-icon向量ICON寫好在專屬的navbar.css裡面了
 
 
 
