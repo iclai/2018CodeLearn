@@ -16,7 +16,7 @@
   <!-- 選單 -->
   <nav></nav>
   <!-- 圖片 -->
-  <banner></banner>
+  <div></div>
 </header> 
 <!-- 網頁內容 -->
 <section></section> 
