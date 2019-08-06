@@ -48,9 +48,11 @@
 <button class="navbar-toggler"></button>
 ```
 
+![](/assets/A06.png)
+
 ```html
- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapse">
+ <button class="navbar-toggler" type="button" data-toggle="collapse">
 ```
 
-
+告訴瀏覽器 type類型是button按鈕類型，data-toggle是指事件觸發，JavaScript用的，data-toggle後面指定觸發的形式要怎麼顯示，有可能是tab\(頁籤\)、dropdown\(下拉\)形式
 
