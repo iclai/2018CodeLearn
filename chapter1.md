@@ -23,18 +23,20 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 ```
 
-引入 jquery-3.3.1.slim.min.js、bootstrap.min.js、bootstrap.min.js 這三個JS組件，組要用在以下功能
+引入_ jquery-3.3.1.slim.min.js、bootstrap.min.js、bootstrap.min.js _這三個JS組件，組要用在以下功能
 
 * Alerts for dismissing \(解除警報\)
 * Buttons for toggling states and checkbox/radio functionality \(按鈕切換功能和選項按鈕功能\)
 * Carousel for all slide behaviors, controls, and indicators\(幻燈片撥放控制和輪播功能\)
 
-* Collapse for toggling visibility of content
-* Dropdowns for displaying and positioning \(also requires [Popper.js](https://popper.js.org/)\)
-* Modals for displaying, positioning, and scroll behavior
-* Navbar for extending our Collapse plugin to implement responsive behavior
-* Tooltips and popovers for displaying and positioning \(also requires [Popper.js](https://popper.js.org/)\)
-* Scrollspy for scroll behavior and navigation updates
+* Collapse for toggling visibility of content\(摺疊切換，如手機版漢堡選單\)
+
+* Dropdowns for displaying and positioning \(顯示和定位，下拉選單，也需要[Popper.js](https://popper.js.org/)\)
+
+* Modals for displaying, positioning, and scroll behavior \(顯示和定位和捲動行為組態\)
+* Navbar for extending our Collapse plugin to implement responsive behavior\(導航列的擴和折疊插件，用來實現響應式行為\)
+* Tooltips and popovers for displaying and positioning \(提示和彈出框工具的顯示與定位，也需要 [Popper.js](https://popper.js.org/)\)
+* Scrollspy for scroll behavior and navigation updates\(滾動監聽行為，自動更新導航外掛，會根據滾動條的位置自動更新對應的導航目標。\)
 
 
 
