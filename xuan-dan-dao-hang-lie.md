@@ -26,5 +26,9 @@
 </div>
 ```
 
+產生如下圖的 List
 
+![](/assets/A02_1.jpg)
+
+緊接著要再套入Bootstrap 的css，讓文字變漂亮。如下圖示。![](/assets/A03.jpg)
 
