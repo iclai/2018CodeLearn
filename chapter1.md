@@ -17,3 +17,23 @@
 
 接著將將JavaScrapt 組件複製貼進網頁的_&lt;/body&gt;_結尾之前。
 
+```html
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+```
+
+引入 jquery-3.3.1.slim.min.js、bootstrap.min.js、bootstrap.min.js 這三個JS組件，組要用在以下功能
+
+* Alerts for dismissing \(解除警報\)
+* Buttons for toggling states and checkbox/radio functionality
+* Carousel for all slide behaviors, controls, and indicators
+* Collapse for toggling visibility of content
+* Dropdowns for displaying and positioning \(also requires [Popper.js](https://popper.js.org/)\)
+* Modals for displaying, positioning, and scroll behavior
+* Navbar for extending our Collapse plugin to implement responsive behavior
+* Tooltips and popovers for displaying and positioning \(also requires [Popper.js](https://popper.js.org/)\)
+* Scrollspy for scroll behavior and navigation updates
+
+
+
