@@ -12,7 +12,5 @@ Bootstrap 4目前是最新，也是比Bootstrap 3執行快速，且樣式資料�
 
 > W3 Schools 也已經將Bootstrap 4 列入專頁介紹
 
-[![](/images/w3c.png)](https://www.w3schools.com/default.asp)
-
-
+[![](/assets/W3C.jpg)](https://www.w3schools.com/default.asp)
 

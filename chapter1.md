@@ -36,8 +36,10 @@
 * Modals for displaying, positioning, and scroll behavior \(顯示和定位和捲動行為組態\)
 
 * Navbar for extending our Collapse plugin to implement responsive behavior\(導航列的擴和折疊插件，用來實現響應式行為\)
+
 * Tooltips and popovers for displaying and positioning \(提示和彈出框工具的顯示與定位，也需要 [Popper.js](https://popper.js.org/)\)
+
 * Scrollspy for scroll behavior and navigation updates\(滾動監聽行為，自動更新導航外掛，會根據滾動條的位置自動更新對應的導航目標。\)
 
-
+![](/assets/b01.jpg)
 
