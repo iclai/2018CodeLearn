@@ -12,5 +12,19 @@
  </a>
 ```
 
+> 利用ul、li 建立選單
+
+```html
+<div>
+  <ul>
+    <li><a href="#">產品</a></li>
+    <li><a href="#">功能</a></li>
+    <li><a href="#">創意</a></li>
+    <li><a href="#">活動</a></li>
+    <li><a href="#">規格</a></li>
+  </ul>
+</div>
+```
+
 
 
