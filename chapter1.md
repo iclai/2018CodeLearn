@@ -26,8 +26,9 @@
 引入 jquery-3.3.1.slim.min.js、bootstrap.min.js、bootstrap.min.js 這三個JS組件，組要用在以下功能
 
 * Alerts for dismissing \(解除警報\)
-* Buttons for toggling states and checkbox/radio functionality
-* Carousel for all slide behaviors, controls, and indicators
+* Buttons for toggling states and checkbox/radio functionality \(按鈕切換功能和選項按鈕功能\)
+* Carousel for all slide behaviors, controls, and indicators\(幻燈片撥放控制和輪播功能\)
+
 * Collapse for toggling visibility of content
 * Dropdowns for displaying and positioning \(also requires [Popper.js](https://popper.js.org/)\)
 * Modals for displaying, positioning, and scroll behavior
