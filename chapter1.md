@@ -9,11 +9,11 @@
 1. 使用外部連結到網頁中。
 2. 直接將bootstrap 檔案下載至網頁資料夾中，使用內部連結。
 
-**外部連結 **， 點擊首頁的 **Get started **，將css 樣式路徑複製貼進網頁_&lt;head&gt;_與_&lt;/head&gt;_之間。
+**外部連結 **， 點擊首頁的 **Get started **，將CSS 樣式路徑複製貼進網頁_&lt;head&gt;_與_&lt;/head&gt;_之間。
 
 ```html
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 ```
 
-
+接著將將JavaScrapt 組件複製貼進 網頁的_&lt;/body&gt;_結尾之前。
 
