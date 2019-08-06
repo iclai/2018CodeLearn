@@ -6,3 +6,5 @@
 
 ![](/assets/A00.jpg)將Photoshop 設計好的網頁版型，做網頁框架佈局，按照網頁版型，切分成 網頁骨架 header、 nav 、section、 contents、footer。
 
+![](/assets/網頁版型.jpg)
+
