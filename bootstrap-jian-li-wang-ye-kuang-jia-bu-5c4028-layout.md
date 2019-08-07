@@ -1,5 +1,7 @@
 # Bootstrap 網頁框架佈局
 
+先建立網頁骨架，從Photoshop 設計好網頁版型後，建立HTML網頁框架，包含header、 nav 、section、 contents、footer。
+
 使用編輯器開啟一個空白的頁面，並設定好HTML應有的標準內容
 
 > 編輯器有 [VScode](https://code.visualstudio.com/)、[Atom](https://atom.io)、[Brackets](http://brackets.io/)、[Sublime](https://www.sublimetext.com/) 請自行選擇上手的。
