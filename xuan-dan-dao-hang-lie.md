@@ -48,13 +48,19 @@
 <button class="navbar-toggler"></button>
 ```
 
-![](.gitbook/assets/a06.png)
+![&#x53F3;&#x908A;&#x5DF2;&#x7D93;&#x51FA;&#x73FE;&#x6F22;&#x5821;&#x9078;&#x55AE;&#x7684;&#x5716;&#x5F62;&#x5916;&#x6846;](.gitbook/assets/a06.png)
 
 ```markup
  <button class="navbar-toggler" type="button" data-toggle="collapse">
 ```
 
-告訴瀏覽器 type類型是button按鈕類型，data-toggle是指事件觸發，JavaScript用的，data-toggle後面指定觸發的形式要怎麼顯示，有可能是tab\(頁籤\)、dropdown\(下拉\)形式。![](.gitbook/assets/a07.jpg)![](.gitbook/assets/a08.jpg)
+告訴瀏覽器 type類型是button按鈕類型，data-toggle是指事件觸發，JavaScript用的，data-toggle後面指定觸發的形式要怎麼顯示，有可能是tab\(頁籤\)、dropdown\(下拉\)形式。
+
+![&#x4E0B;&#x62C9;&#x9078;&#x55AE;&#x5F62;&#x5F0F;](.gitbook/assets/a08.jpg)
+
+![&#x9801;&#x7C64;&#x5F62;&#x5F0F;](.gitbook/assets/a07.jpg)
+
+
 
 設定好漢堡選單類型後，要再加入漢堡ICON，讓摺疊選單可以顯示出來
 
