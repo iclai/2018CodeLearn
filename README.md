@@ -1,4 +1,4 @@
-### 使用Bootstrap 4建置網頁
+# Introduction
 
 運用Bootstrap 4前端框架，來建構網頁，Bootstrap提供網站開發者一個快速且簡單的設計網頁環境。
 
@@ -12,5 +12,5 @@ Bootstrap 4目前是最新，也是比Bootstrap 3執行快速，且樣式資料�
 
 > W3 Schools 也已經將Bootstrap 4 列入專頁介紹
 
-[![](/assets/W3C.jpg)](https://www.w3schools.com/default.asp)
+[![](.gitbook/assets/w3c.jpg)](https://www.w3schools.com/default.asp)
 
