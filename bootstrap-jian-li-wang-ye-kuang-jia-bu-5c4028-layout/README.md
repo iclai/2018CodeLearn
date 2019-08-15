@@ -6,11 +6,11 @@
 
 > 編輯器有 [VScode](https://code.visualstudio.com/)、[Atom](https://atom.io)、[Brackets](http://brackets.io/)、[Sublime](https://www.sublimetext.com/) 請自行選擇上手的。
 
-![](.gitbook/assets/a00.jpg)
+![](../.gitbook/assets/a00.jpg)
 
 將Photoshop 設計好的網頁版型，做網頁框架佈局，按照網頁版型，切分成 網頁骨架 header、 nav 、section、 contents、footer。
 
-![](.gitbook/assets/wang-ye-ban-xing.jpg)
+![](../.gitbook/assets/wang-ye-ban-xing.jpg)
 
 ```markup
 <!-- 網頁抬頭 -->
@@ -26,5 +26,5 @@
 <footer></footer>
 ```
 
-![](.gitbook/assets/a02.jpg)
+![](../.gitbook/assets/a02.jpg)
 
