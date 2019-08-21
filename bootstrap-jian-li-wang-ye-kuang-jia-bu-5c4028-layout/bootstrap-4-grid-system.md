@@ -2,7 +2,7 @@
 description: 網格系統
 ---
 
-# Bootstrap 4 Grid System
+# 960 Grid System
 
 美國設計教父 Paul Rand \(保羅・蘭德\)對網格系統下過定義：
 
