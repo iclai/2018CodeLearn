@@ -18,11 +18,29 @@ description: 網格系統
 
 ![12&#x6B04;](../.gitbook/assets/960.jpg)
 
+### 實際運用 <a id="&#x5BE6;&#x969B;&#x904B;&#x7528;"></a>
+
+
+
+假設我們的網頁內容包含了以下元素\(如下圖\)：
+
+* Header\(含大 Banner和選單\)
+* 主要內容區域
+* 頁腳
+
+
+
+我們就是依據網格來做網頁版型設計，超出960的部分，我們是要做全版面，所以不用理會。
+
+
+
 ![&#x5957;&#x7528; 960 Grid System&#x7684;&#x7DB2;&#x9801;&#xFF0C;&#x4F9D;&#x64DA;&#x6B04;&#x4F4D;&#x6578;&#x4F86;&#x6392;&#x5217;&#x5167;&#x5BB9;](../.gitbook/assets/12-grid-tao-wang-ye.jpg)
 
 如下圖，一個欄\(Column\)的寬度是 60px，但兩個欄位數的寬度不是 120px，需要加上兩者之間的欄位間隔\(Gutter\)，所以數值會是 60 + 60 + 20 = 140px。
 
 ![](../.gitbook/assets/12-grid-tao-wang-ye-2.jpg)
 
+如果網頁版型為其他形式，也是可以套用網格來做排版，如下圖為分成左右兩欄式的。
 
+![](../.gitbook/assets/gird-jian-yi-ban-xing.jpg)
 
