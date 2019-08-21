@@ -16,5 +16,5 @@ description: 網格系統
 
 網頁版面可以輕鬆配置，合併，也不會有畸零數，非常適合DIV排版。
 
-![](../.gitbook/assets/960.jpg)
+![12&#x6B04;](../.gitbook/assets/960.jpg)
 
