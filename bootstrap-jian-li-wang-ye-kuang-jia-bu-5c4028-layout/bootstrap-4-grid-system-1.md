@@ -145,3 +145,10 @@ container是Bootstrap網格系統佈局使用的容器，也是最根本的排�
         </div>
 ```
 
+### Media Queries 的分段點 <a id="media-queries-&#x7684;&#x5206;&#x6BB5;&#x9EDE;"></a>
+
+* @media\(min-width:576px\){ 當裝置畫面寬度為576px或是576px以上就執行這個樣式 }
+* @media\(min-width:768px\){ 當裝置畫面寬度為768px或是768px以上就執行這個樣式 }
+* @media\(min-width:992px\){ 當裝置畫面寬度為992px或是992px以上就執行這個樣式 }
+* @media\(min-width:1200px\){ 當裝置畫面寬度為1200x或是1200px以上就執行這個樣式 }
+
