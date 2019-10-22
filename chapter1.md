@@ -23,7 +23,7 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 ```
 
-> 引入 _jquery-3.3.1.slim.min.js、bootstrap.min.js、bootstrap.min.js_ 這三個JS組件，組要用在以下功能
+> 引入 _jquery-3.3.1.slim.min.js、bootstrap.min.js、bootstrap.min.js_ 這三個JS組件，主要會運用在以下功能
 
 * Alerts for dismissing \(解除警報\)
 * Buttons for toggling states and checkbox/radio functionality \(按鈕切換功能和選項按鈕功能\)
