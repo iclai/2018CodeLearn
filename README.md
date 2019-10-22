@@ -2,7 +2,7 @@
 description: 一頁式網頁製作
 ---
 
-# Introduction
+# 套用Bootstrap做網頁
 
 越來越多企業使用一頁式網頁做為形象官網，已經不稀奇。
 
