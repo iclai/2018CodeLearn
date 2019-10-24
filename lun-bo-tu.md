@@ -16,7 +16,7 @@
  <div class="carousel-inner">
 ```
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 ### 圖片置入
 
@@ -32,7 +32,7 @@
 
 相片加入 **`class="w-100"`** 讓圖片可以自適設備螢幕的大小
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 ```markup
   <!-- 可以輪播的Banner圖片 -->
@@ -59,4 +59,14 @@
   </section>
 
 ```
+
+### 設定圖片上下頁按鈕
+
+按鈕 要和 輪播圖有連結性，所以要在輪播圖的最外面的div 加上ID 名稱，這樣按鈕才知道要對應到哪一個名稱
+
+```markup
+ <div id="carousel-controller" class="carousel slide" data-ride="carousel">
+```
+
+![](.gitbook/assets/image%20%2811%29.png)
 
