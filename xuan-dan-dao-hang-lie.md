@@ -8,7 +8,7 @@
 
 ### \`\`[Bootstrap的內建選單](https://bootstrap.hexschool.com/docs/4.2/components/navbar/)
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](.gitbook/assets/image%20%2817%29.png)
 
 ### 置入LOGO
 
@@ -44,7 +44,7 @@
 <nav class="navber navbar-dark bg-dark">
 ```
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2818%29.png)
 
 > 將Bootstrap 標籤套入HTML
 
@@ -79,7 +79,7 @@
 <nav class="navbar navbar-dark bg-dark navbar-expand-md">
 ```
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 加入 **`<div class="container">  </div>`** 包住NAV導覽列，讓導覽列左右兩邊出現空間
 
@@ -102,7 +102,7 @@
 * **`navbar-toggler` 就是一個告訴選單要做切換的動作**
 * **`button`**告訴瀏覽器 type類型是**`button`**按鈕類型
 * **`data-toggle`**是指事件觸發，JavaScript用的，**`data-toggle`**後面指定觸發的形式要怎麼顯示，有可能是tab\(頁籤\)、dropdown\(下拉\)形式，我們目前網頁用**`collapse`**\(摺疊\)形式。
-* **`data-target`** 定義你的按鈕要對應的對象。
+* **`data-target`** 定義你的按鈕要對應的對象，ID名稱自己設定。
 
 ![&#x4E0B;&#x62C9;&#x9078;&#x55AE;&#x5F62;&#x5F0F;](.gitbook/assets/a08.jpg)
 
@@ -111,6 +111,8 @@
 
 
 設定好漢堡選單類型後，要再加入漢堡ICON，讓摺疊選單可以顯示出來
+
+![](.gitbook/assets/image%20%2815%29.png)
 
 ```markup
  <span class="navbar-toggler-icon"></span>
