@@ -4,11 +4,11 @@
 
 `navbar`為Bootstrap的內建選單，Bootstrap已經將CSS語法都寫在裡面了，所以我們就輸入名稱，把選單的風格呼叫進來，`navbar-dark`為深色選單，`bg-dark`為黑色背景，如下圖。
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 ### \`\`[Bootstrap的內建選單](https://bootstrap.hexschool.com/docs/4.2/components/navbar/)
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 ### 置入LOGO
 
@@ -20,7 +20,7 @@
  </a>
 ```
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 
 ### 建立選單List
 
@@ -44,7 +44,7 @@
 <nav class="navber navbar-dark bg-dark">
 ```
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](.gitbook/assets/image%20%2817%29.png)
 
 > 將Bootstrap 標籤套入HTML
 
@@ -71,7 +71,7 @@
     </nav>
 ```
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 由於，選單為直式排列，不是我們要的，要將選單由直向排列，改成橫向排列，在`<nav class>`中加入 `navbar-expand-md` ，讓網頁_大於_ _768px_ 就會變成橫向排列，_小於768px_就會變成直向排列。
 
@@ -79,11 +79,13 @@
 <nav class="navbar navbar-dark bg-dark navbar-expand-md">
 ```
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 加入 **`<div class="container">  </div>`** 包住NAV導覽列，讓導覽列左右兩邊出現空間
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
+
+### 建立手機用選單按鈕
 
 > 加入手機用漢堡選單
 
@@ -91,13 +93,16 @@
 <button class="navbar-toggler"></button>
 ```
 
-![&#x53F3;&#x908A;&#x5DF2;&#x7D93;&#x51FA;&#x73FE;&#x6F22;&#x5821;&#x9078;&#x55AE;&#x7684;&#x5716;&#x5F62;&#x5916;&#x6846;](.gitbook/assets/a06.png)
+![](.gitbook/assets/image%20%282%29.png)
 
 ```markup
  <button class="navbar-toggler" type="button" data-toggle="collapse">
 ```
 
-告訴瀏覽器 type類型是button按鈕類型，data-toggle是指事件觸發，JavaScript用的，data-toggle後面指定觸發的形式要怎麼顯示，有可能是tab\(頁籤\)、dropdown\(下拉\)形式。
+* **`navbar-toggler` 就是一個告訴選單要做切換的動作**
+* **`button`**告訴瀏覽器 type類型是**`button`**按鈕類型
+* **`data-toggle`**是指事件觸發，JavaScript用的，**`data-toggle`**後面指定觸發的形式要怎麼顯示，有可能是tab\(頁籤\)、dropdown\(下拉\)形式，我們目前網頁用**`collapse`**\(摺疊\)形式。
+* **`data-target`** 定義你的按鈕要對應的對象。
 
 ![&#x4E0B;&#x62C9;&#x9078;&#x55AE;&#x5F62;&#x5F0F;](.gitbook/assets/a08.jpg)
 
