@@ -21,9 +21,30 @@
 }
 ```
 
-![](.gitbook/assets/image%20%2828%29.png)
+![](.gitbook/assets/image%20%2829%29.png)
 
 目前影片還無法自動縮放，瀏覽器縮小，影片會被遮住
+
+![](.gitbook/assets/image%20%2823%29.png)
+
+```css
+.video-container {
+  position: relative;
+  padding: 30%;
+  overflow: hidden;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+```
+
+加上以上CSS，影片就會符合螢幕大小自動縮放
 
 ![](.gitbook/assets/image%20%2822%29.png)
 
