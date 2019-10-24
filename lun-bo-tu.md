@@ -10,3 +10,5 @@
  <div class="carousel" data-ride="carousel">
 ```
 
+創建好輪播圖區域後，就要加入輪播圖片
+
