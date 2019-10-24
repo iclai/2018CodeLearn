@@ -13,4 +13,6 @@
 * [網頁字型](wang-ye-zi-xing.md)
 * [網頁影片區塊](wang-ye-ying-pian.md)
 * [產品介紹區塊](chan-pin-jie-shao-ou-kuai.md)
+* [商品文案區塊](shang-pin-wen-an-ou-kuai.md)
+* [商品促銷活動區塊](shang-pin-cu-xiao-huo-dong-ou-kuai.md)
 
