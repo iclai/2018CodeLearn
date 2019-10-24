@@ -2,7 +2,7 @@
 
 建立輪播圖要的section區域，class設定 carousel， 告訴Bootstrap要引用它的輪播功能。 
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 
 數據加載方式也是carousel，所以後面要加入**`data-ride="carousel"`**
 
@@ -16,23 +16,23 @@
  <div class="carousel-inner">
 ```
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2828%29.png)
 
 ### 圖片置入
 
 **`carousel-item`** 表示圖片的項目，**`active`**，告訴瀏覽器從這一張開始撥放
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%284%29.png)
 
 複製 圖片1寫好的程式區塊，往下貼上，並修改圖片路徑的名稱，可以看到圖片是很大的而且已經會自己輪播。
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 
 我們希望相片輪播的方式可以用滑動的，而不是用跳動的，所以要在輪播圖最外框的div加上一個 **`slide`** , 這樣圖片就換傳變成滑動
 
 相片加入 **`class="w-100"`** 讓圖片可以自適設備螢幕的大小
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 ```markup
   <!-- 可以輪播的Banner圖片 -->
@@ -68,7 +68,7 @@
  <div id="carousel-controller" class="carousel slide" data-ride="carousel">
 ```
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 按鈕串聯圖片的ID名稱 carousel-controller
 
@@ -76,7 +76,19 @@
 <a href="#carousel-controller" data-slide="prev" class="carousel-control-prev"></a>
 ```
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 左邊已經出現按鈕區域
+
+```markup
+<span class="carousel-control-prev-icon"></span>
+```
+
+&lt;span&gt; 引入Bootstrap的 ICON，輪播圖上，就會出現上一頁的icon按鈕
+
+![](.gitbook/assets/image%20%282%29.png)
+
+下一頁的按鈕，就複製上一頁寫好的語法，往下貼上，並將prev，全都修改成next，下一頁的按鈕就出現了
+
+![](.gitbook/assets/image%20%2827%29.png)
 
