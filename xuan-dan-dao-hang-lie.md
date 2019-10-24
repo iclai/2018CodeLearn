@@ -77,6 +77,8 @@
 
 ![](.gitbook/assets/image%20%2813%29.png)
 
+加入 **`<div class="container">  </div>`** 包住NAV導覽列，讓導覽列左右兩邊出現空間
+
 > 加入手機用漢堡選單
 
 ```markup
