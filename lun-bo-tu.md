@@ -16,7 +16,7 @@
  <div class="carousel-inner">
 ```
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 ### 圖片置入
 
@@ -32,7 +32,7 @@
 
 相片加入 **`class="w-100"`** 讓圖片可以自適設備螢幕的大小
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 ```markup
   <!-- 可以輪播的Banner圖片 -->
@@ -68,5 +68,15 @@
  <div id="carousel-controller" class="carousel slide" data-ride="carousel">
 ```
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
+
+按鈕串聯圖片的ID名稱 carousel-controller
+
+```markup
+<a href="#carousel-controller" data-slide="prev" class="carousel-control-prev"></a>
+```
+
+![](.gitbook/assets/image%20%2819%29.png)
+
+左邊已經出現按鈕區域
 
