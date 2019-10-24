@@ -23,6 +23,8 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 ```
 
+![](.gitbook/assets/image%20%286%29.png)
+
 > 引入 _jquery-3.3.1.slim.min.js、bootstrap.min.js、bootstrap.min.js_ 這三個JS組件，主要會運用在以下功能
 
 * Alerts for dismissing \(解除警報\)
@@ -34,6 +36,4 @@
 * Navbar for extending our Collapse plugin to implement responsive behavior\(導航列的擴和折疊插件，用來實現響應式行為\)
 * Tooltips and popovers for displaying and positioning \(提示和彈出框工具的顯示與定位，也需要 [Popper.js](https://popper.js.org/)\)
 * Scrollspy for scroll behavior and navigation updates\(滾動監聽行為，自動更新導航外掛，會根據滾動條的位置自動更新對應的導航目標。\)
-
-![](.gitbook/assets/b01.jpg)
 
