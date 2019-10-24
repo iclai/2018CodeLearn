@@ -10,6 +10,8 @@
 
 ![](.gitbook/assets/image%20%2814%29.png)
 
+### 置入LOGO
+
 > 建立LOGO，將準備好的LOGO圖片置入HTML中
 
 ```markup
@@ -19,6 +21,8 @@
 ```
 
 ![](.gitbook/assets/image%20%287%29.png)
+
+### 建立選單List
 
 > 利用ul、li 建立選單
 
