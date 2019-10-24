@@ -8,6 +8,8 @@
 
 ### \`\`[Bootstrap的內建選單](https://bootstrap.hexschool.com/docs/4.2/components/navbar/)
 
+![](.gitbook/assets/image%20%289%29.png)
+
 > 建立LOGO，將準備好的LOGO圖片置入HTML中
 
 ```markup
@@ -34,7 +36,7 @@
 
 產生如下圖的 List
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 > 將Bootstrap 標籤套入HTML
 
