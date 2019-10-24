@@ -16,7 +16,7 @@
  <div class="carousel-inner">
 ```
 
-![](.gitbook/assets/image%20%2822%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 ### 圖片置入
 
@@ -31,4 +31,32 @@
 我們希望相片輪播的方式可以用滑動的，而不是用跳動的，所以要在輪播圖最外框的div加上一個 **`slide`** , 這樣圖片就換傳變成滑動
 
 相片加入 **`class="w-100"`** 讓圖片可以自適設備螢幕的大小
+
+![](.gitbook/assets/image%20%2820%29.png)
+
+```markup
+  <!-- 可以輪播的Banner圖片 -->
+  <section>
+    <div class="carousel slide" data-ride="carousel">
+      <!-- 輪播圖片 -->
+      <div class="carousel-inner">
+        <!-- 圖片1 -->
+        <div class="carousel-item active">
+          <img class="w-100" src="images/Banner1.jpg" alt="">
+        </div>
+        <!-- 圖片2 -->
+        <div class="carousel-item">
+          <img class="w-100" src="images/Banner2.jpg" alt="">
+        </div>
+        <!-- 圖片3 -->
+        <div class="carousel-item">
+          <img class="w-100" src="images/Banner3.jpg" alt="">
+        </div>
+
+
+      </div>
+    </div>
+  </section>
+
+```
 

@@ -8,7 +8,7 @@
 
 ### \`\`[Bootstrap的內建選單](https://bootstrap.hexschool.com/docs/4.2/components/navbar/)
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
 ### 置入LOGO
 
@@ -44,7 +44,7 @@
 <nav class="navber navbar-dark bg-dark">
 ```
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 > 將Bootstrap 標籤套入HTML
 
@@ -79,7 +79,7 @@
 <nav class="navbar navbar-dark bg-dark navbar-expand-md">
 ```
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 加入 **`<div class="container">  </div>`** 包住NAV導覽列，讓導覽列左右兩邊出現空間
 
