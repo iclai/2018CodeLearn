@@ -92,3 +92,15 @@
 
 ![](.gitbook/assets/image%20%2827%29.png)
 
+### 輪播點點按鈕
+
+```markup
+ <ol class="carousel-indicators">
+     <li data-target="#carousel-controller"></li>
+  </ol>
+```
+
+**`carousel-indicators`** 輪播指向哪張圖，**`data-target="#carousel-controller"`** 目標是圖片的ID名稱
+
+![](.gitbook/assets/image%20%2829%29.png)
+

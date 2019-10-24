@@ -44,7 +44,7 @@
 <nav class="navber navbar-dark bg-dark">
 ```
 
-![](.gitbook/assets/image%20%2829%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 > 將Bootstrap 標籤套入HTML
 
