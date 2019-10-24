@@ -104,3 +104,9 @@
 
 ![](.gitbook/assets/image%20%2829%29.png)
 
+data-slide-to="0" ，資料要連結到哪一張圖片，class="active"，圖片開啟連結關聯性。
+
+data-slide-to，數字如同陣列一樣，從0開始算圖片第1張，1則為圖片的第2張，2為圖片的第3張
+
+![](.gitbook/assets/image%20%2832%29.png)
+
