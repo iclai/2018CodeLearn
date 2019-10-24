@@ -10,13 +10,13 @@ Bootstrap提供的格線系統，也是一樣的概念，將版面區分成 `col
 
 ### [版面縮小](https://getbootstrap.com/docs/3.4/css/)
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 ### container容器
 
 container是Bootstrap網格系統佈局使用的容器，也是最根本的排版元素，非常重要，使用時會因應每個響應式斷點來更改寬度。
 
-![](../.gitbook/assets/image%20%2851%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 ```markup
  <!-- col -->
