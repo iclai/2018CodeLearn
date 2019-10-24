@@ -4,11 +4,11 @@
 
 `navbar`為Bootstrap的內建選單，Bootstrap已經將CSS語法都寫在裡面了，所以我們就輸入名稱，把選單的風格呼叫進來，`navbar-dark`為深色選單，`bg-dark`為黑色背景，如下圖。
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 ### \`\`[Bootstrap的內建選單](https://bootstrap.hexschool.com/docs/4.2/components/navbar/)
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 > 建立LOGO，將準備好的LOGO圖片置入HTML中
 
@@ -18,7 +18,7 @@
  </a>
 ```
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 > 利用ul、li 建立選單
 
@@ -40,7 +40,7 @@
 <nav class="navber navbar-dark bg-dark">
 ```
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 > 將Bootstrap 標籤套入HTML
 
@@ -67,15 +67,15 @@
     </nav>
 ```
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%282%29.png)
 
 由於，選單為直式排列，不是我們要的，要將選單由直向排列，改成橫向排列，在`<nav class>`中加入 `navbar-expand-md` ，讓網頁_大於_ _768px_ 就會變成橫向排列，_小於768px_就會變成直向排列。
 
 ```markup
-<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+<nav class="navbar navbar-dark bg-dark navbar-expand-md">
 ```
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
 
 > 加入手機用漢堡選單
 
