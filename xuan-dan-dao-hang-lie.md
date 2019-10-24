@@ -36,6 +36,10 @@
 
 產生如下圖的 List
 
+```markup
+<nav class="navber navbar-dark bg-dark">
+```
+
 ![](.gitbook/assets/image%20%2810%29.png)
 
 > 將Bootstrap 標籤套入HTML
