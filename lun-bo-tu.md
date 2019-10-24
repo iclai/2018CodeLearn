@@ -120,5 +120,53 @@ data-slide-to，數字如同陣列一樣，從0開始算圖片第1張，1則為�
 
 ![](.gitbook/assets/image%20%2813%29.png)
 
-![](.gitbook/assets/image%20%2811%29.png)
+```markup
+ <!-- 可以輪播的Banner圖片 -->
+  <section>
+    <div id="carousel-controller" class="carousel slide" data-ride="carousel">
+      <!-- 輪播圖片 -->
+      <div class="carousel-inner">
+        <!-- 圖片1 -->
+        <div class="carousel-item active">
+          <img class="w-100" src="images/Banner1.jpg" alt="">
+          <div class="carousel-caption">
+            <h1>檢驗合格</h1>
+            <p>塗層光滑 不沾易洗</p>
+          </div>
+        </div>
+        <!-- 圖片2 -->
+        <div class="carousel-item">
+          <img class="w-100" src="images/Banner2.jpg" alt="">
+          <div class="carousel-caption">
+            <h1>智慧把手</h1>
+            <p>鍋具輕鬆轉換 美味直接盛盤</p>
+          </div>
+        </div>
+        <!-- 圖片3 -->
+        <div class="carousel-item">
+          <img class="w-100" src="images/Banner3.jpg" alt="">
+          <div class="carousel-caption">
+            <h1>圓弧設計</h1>
+            <p>堆疊收納 節省空間</p>
+          </div>
+        </div>
+      </div>
+      <!-- 圖片上一頁按鈕 -->
+      <a href="#carousel-controller" data-slide="prev" class="carousel-control-prev">
+        <span class="carousel-control-prev-icon"></span>
+      </a>
+      <!-- 圖片下一頁按鈕 -->
+      <a href="#carousel-controller" data-slide="next" class=" carousel-control-next">
+        <span class="carousel-control-next-icon"></span>
+      </a>
+
+      <!-- 下方點點 -->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-controller" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-controller" data-slide-to="1"></li>
+        <li data-target="#carousel-controller" data-slide-to="2"></li>
+      </ol>
+    </div>
+  </section>
+```
 
