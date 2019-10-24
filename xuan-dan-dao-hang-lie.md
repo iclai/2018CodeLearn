@@ -1,8 +1,12 @@
 # 選單導航列
 
-開始製作網頁選單Nav這個部分，由於Nav是包在Header裡面，所以要先寫`<header></header>`，並把`<nav></nav>`包在面，&lt;nav&gt;要設定class，來設定風格，`navbar`為Bootstrap的內建選單，Bootstrap已經將CSS語法都寫在裡面了，所以我們就輸入名稱，把選單的風格呼叫進來，`navbar-dark`為深色選單，`bg-dark`為黑色背景，如下圖。
+開始製作網頁選單Nav這個部分，由於Nav是包在Header裡面，所以要先寫`<header></header>`，並把`<nav></nav>`包在面，&lt;nav&gt;要設定class，來設定風格。
+
+`navbar`為Bootstrap的內建選單，Bootstrap已經將CSS語法都寫在裡面了，所以我們就輸入名稱，把選單的風格呼叫進來，`navbar-dark`為深色選單，`bg-dark`為黑色背景，如下圖。
 
 ![](.gitbook/assets/image%20%288%29.png)
+
+### \`\`[Bootstrap的內建選單](https://bootstrap.hexschool.com/docs/4.2/components/navbar/)
 
 > 建立LOGO，將準備好的LOGO圖片置入HTML中
 
