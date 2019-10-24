@@ -30,7 +30,7 @@
 
 產生如下圖的 List
 
-![](.gitbook/assets/a02_1.jpg)
+![](.gitbook/assets/image%20%289%29.png)
 
 > 將Bootstrap 標籤套入HTML
 
