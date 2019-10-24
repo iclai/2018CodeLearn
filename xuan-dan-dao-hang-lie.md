@@ -40,7 +40,7 @@
 
 > 將Bootstrap 標籤套入HTML
 
-緊接著要再套入Bootstrap 的css，讓文字變漂亮。**`class="navbar-nav"`** 如下圖示。
+緊接著要再套入Bootstrap 的css，讓文字變漂亮。**`<ul>`**加入**`class="navbar-nav"`** ，**`<li>`**加入**`class="navbar-item"`**如下圖示。
 
 ![](.gitbook/assets/a03.jpg)
 
