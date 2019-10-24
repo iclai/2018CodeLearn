@@ -10,13 +10,13 @@ Bootstrap提供的格線系統，也是一樣的概念，將版面區分成 `col
 
 ### [版面縮小](https://getbootstrap.com/docs/3.4/css/)
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ### container容器
 
 container是Bootstrap網格系統佈局使用的容器，也是最根本的排版元素，非常重要，使用時會因應每個響應式斷點來更改寬度。
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 ```markup
  <!-- col -->
@@ -162,5 +162,5 @@ container，無論瀏覽器有多大多小，兩側會有留白\(Grid padding\)
 
 container-fluid則會將原本兩側的留白，全部100%填滿
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 

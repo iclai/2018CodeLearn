@@ -16,7 +16,7 @@
  <div class="carousel-inner">
 ```
 
-![](.gitbook/assets/image%20%2828%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 ### 圖片置入
 
@@ -32,7 +32,7 @@
 
 相片加入 **`class="w-100"`** 讓圖片可以自適設備螢幕的大小
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 ```markup
   <!-- 可以輪播的Banner圖片 -->
@@ -68,7 +68,7 @@
  <div id="carousel-controller" class="carousel slide" data-ride="carousel">
 ```
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 按鈕串聯圖片的ID名稱 carousel-controller
 
@@ -76,7 +76,7 @@
 <a href="#carousel-controller" data-slide="prev" class="carousel-control-prev"></a>
 ```
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
 左邊已經出現按鈕區域
 
@@ -90,7 +90,7 @@
 
 下一頁的按鈕，就複製上一頁寫好的語法，往下貼上，並將prev，全都修改成next，下一頁的按鈕就出現了
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](.gitbook/assets/image%20%2829%29.png)
 
 ### 輪播點點按鈕
 
@@ -102,11 +102,23 @@
 
 **`carousel-indicators`** 輪播指向哪張圖，**`data-target="#carousel-controller"`** 目標是圖片的ID名稱
 
-![](.gitbook/assets/image%20%2829%29.png)
+![](.gitbook/assets/image%20%2831%29.png)
 
 data-slide-to="0" ，資料要連結到哪一張圖片，class="active"，圖片開啟連結關聯性。
 
 data-slide-to，數字如同陣列一樣，從0開始算圖片第1張，1則為圖片的第2張，2為圖片的第3張
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
+
+### 加入大標題
+
+```markup
+ <div class="carousel-caption">
+```
+
+在每張輪播圖中，加入標題，carousel-caption，加入字幕的意思
+
+![](.gitbook/assets/image%20%2813%29.png)
+
+![](.gitbook/assets/image%20%2811%29.png)
 
