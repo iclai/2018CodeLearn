@@ -4,11 +4,11 @@
 
 `navbar`為Bootstrap的內建選單，Bootstrap已經將CSS語法都寫在裡面了，所以我們就輸入名稱，把選單的風格呼叫進來，`navbar-dark`為深色選單，`bg-dark`為黑色背景，如下圖。
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
 
 ### \`\`[Bootstrap的內建選單](https://bootstrap.hexschool.com/docs/4.2/components/navbar/)
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 ### 置入LOGO
 
@@ -44,7 +44,7 @@
 <nav class="navber navbar-dark bg-dark">
 ```
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 > 將Bootstrap 標籤套入HTML
 
@@ -79,9 +79,11 @@
 <nav class="navbar navbar-dark bg-dark navbar-expand-md">
 ```
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 加入 **`<div class="container">  </div>`** 包住NAV導覽列，讓導覽列左右兩邊出現空間
+
+![](.gitbook/assets/image%20%289%29.png)
 
 > 加入手機用漢堡選單
 
