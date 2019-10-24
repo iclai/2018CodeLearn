@@ -16,11 +16,17 @@
  <div class="carousel-inner">
 ```
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
 ### 圖片置入
 
 **`carousel-item`** 表示圖片的項目，**`active`**，告訴瀏覽器從這一張開始撥放
 
 ![](.gitbook/assets/image%20%283%29.png)
+
+複製 圖片1寫好的程式區塊，往下貼上，並修改圖片路徑的名稱
+
+![](.gitbook/assets/image%20%287%29.png)
+
+
 
