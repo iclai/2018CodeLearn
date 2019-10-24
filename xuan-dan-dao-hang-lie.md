@@ -46,6 +46,27 @@
 
 緊接著要再套入Bootstrap 的css，讓文字變漂亮。**`<ul>`**加入**`class="navbar-nav"`** ，**`<li>`**加入**`class="navbar-item"`**如下圖示。
 
+```markup
+<nav class="navbar navbar-dark bg-dark">
+
+      <!-- LOGO -->
+      <a href="#" class="navbar-brand">
+        <img src="images/logo.png" alt="logo" />
+      </a>
+      <!-- 選單內容 -->
+      <div>
+        <ul class="navbar-nav">
+          <li><a href="#" class="nav-link">產品</a></li>
+          <li><a href="#" class="nav-link">功能</a></li>
+          <li><a href="#" class="nav-link">創意</a></li>
+          <li><a href="#" class="nav-link">活動</a></li>
+          <li><a href="#" class="nav-link">規格</a></li>
+        </ul>
+      </div>
+
+    </nav>
+```
+
 ![](.gitbook/assets/image%20%2810%29.png)
 
 由於，選單為直式排列，不是我們要的，要將選單由直向排列，改成橫向排列，在`<nav class>`中加入 `navbar-expand-md` ，讓網頁_大於_ _768px_ 就會變成橫向排列，_小於768px_就會變成直向排列。
