@@ -8,7 +8,7 @@
 
 ### \`\`[Bootstrap的內建選單](https://bootstrap.hexschool.com/docs/4.2/components/navbar/)
 
-![](.gitbook/assets/image%20%2830%29.png)
+![](.gitbook/assets/image%20%2831%29.png)
 
 ### 置入LOGO
 
@@ -44,7 +44,7 @@
 <nav class="navber navbar-dark bg-dark">
 ```
 
-![](.gitbook/assets/image%20%2834%29.png)
+![](.gitbook/assets/image%20%2835%29.png)
 
 > 將Bootstrap 標籤套入HTML
 
@@ -79,7 +79,7 @@
 <nav class="navbar navbar-dark bg-dark navbar-expand-md">
 ```
 
-![](.gitbook/assets/image%20%2829%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 加入 **`<div class="container">  </div>`** 包住NAV導覽列，讓導覽列左右兩邊出現空間
 
@@ -112,7 +112,7 @@
 
 設定好漢堡選單類型後，要再加入漢堡ICON，讓摺疊選單可以顯示出來
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](.gitbook/assets/image%20%2828%29.png)
 
 ```markup
  <span class="navbar-toggler-icon"></span>
