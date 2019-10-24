@@ -8,7 +8,7 @@
 
 ```
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 我要'讓影片背景變成黑色，並且與上方輪播圖拉開距離，所以我下了一個class，來設定它，為了要讓黑色撐開背景，所以把**`containe`**改成**`container-fluid`**
 
@@ -21,11 +21,11 @@
 }
 ```
 
-![](.gitbook/assets/image%20%2841%29.png)
+![](.gitbook/assets/image%20%2842%29.png)
 
 目前影片還無法自動縮放，瀏覽器縮小，影片會被遮住
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2833%29.png)
 
 ```css
 .video-container {
@@ -46,5 +46,5 @@
 
 加上以上CSS，影片就會符合螢幕大小自動縮放
 
-![](.gitbook/assets/image%20%2831%29.png)
+![](.gitbook/assets/image%20%2832%29.png)
 

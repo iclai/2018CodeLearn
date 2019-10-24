@@ -2,9 +2,9 @@
 
 規劃了三個區塊放置促銷文案和照片
 
-![](.gitbook/assets/image%20%2844%29.png)
+![](.gitbook/assets/image%20%2845%29.png)
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 ```markup
  <!-- 商品促銷活動區塊 -->
@@ -31,9 +31,9 @@
 
 設定好文字價錢的CSS樣式後，會發現照片很大，所以要再設定照片尺寸
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](.gitbook/assets/image%20%2828%29.png)
 
 指定相片尺寸最大就是原尺寸的100%
 

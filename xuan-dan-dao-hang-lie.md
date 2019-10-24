@@ -4,11 +4,11 @@
 
 `navbar`為Bootstrap的內建選單，Bootstrap已經將CSS語法都寫在裡面了，所以我們就輸入名稱，把選單的風格呼叫進來，`navbar-dark`為深色選單，`bg-dark`為黑色背景，如下圖。
 
-![](.gitbook/assets/image%20%2840%29.png)
+![](.gitbook/assets/image%20%2841%29.png)
 
 ### \`\`[Bootstrap的內建選單](https://bootstrap.hexschool.com/docs/4.2/components/navbar/)
 
-![](.gitbook/assets/image%20%2846%29.png)
+![](.gitbook/assets/image%20%2847%29.png)
 
 ### 置入LOGO
 
@@ -20,7 +20,7 @@
  </a>
 ```
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
 ### 建立選單List
 
@@ -44,7 +44,7 @@
 <nav class="navber navbar-dark bg-dark">
 ```
 
-![](.gitbook/assets/image%20%2850%29.png)
+![](.gitbook/assets/image%20%2851%29.png)
 
 > 將Bootstrap 標籤套入HTML
 
@@ -71,7 +71,7 @@
     </nav>
 ```
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 
 由於，選單為直式排列，不是我們要的，要將選單由直向排列，改成橫向排列，在`<nav class>`中加入 `navbar-expand-md` ，讓網頁_大於_ _768px_ 就會變成橫向排列，_小於768px_就會變成直向排列。
 
@@ -79,11 +79,11 @@
 <nav class="navbar navbar-dark bg-dark navbar-expand-md">
 ```
 
-![](.gitbook/assets/image%20%2845%29.png)
+![](.gitbook/assets/image%20%2846%29.png)
 
 加入 **`<div class="container">  </div>`** 包住NAV導覽列，讓導覽列左右兩邊出現空間
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2827%29.png)
 
 ### 建立手機用選單按鈕
 
@@ -93,7 +93,7 @@
 <button class="navbar-toggler"></button>
 ```
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
 ```markup
  <button class="navbar-toggler" type="button" data-toggle="collapse">
@@ -112,7 +112,7 @@
 
 設定好漢堡選單類型後，要再加入漢堡ICON，讓摺疊選單可以顯示出來
 
-![](.gitbook/assets/image%20%2842%29.png)
+![](.gitbook/assets/image%20%2843%29.png)
 
 ```markup
  <span class="navbar-toggler-icon"></span>
@@ -126,13 +126,13 @@
 
 兩個不同的東西要做互動，必須要給他ID名稱，讓彼此可以有交集，所以我們就幫下拉選單設定一個ID名稱，**ID要用\#開頭**，名稱自訂，自訂完，記得要給漢堡按鈕也放進相同ID。
 
-![](.gitbook/assets/image%20%2839%29.png)
+![](.gitbook/assets/image%20%2840%29.png)
 
 ### 選單連結ID
 
 選單設定好後，要可以點擊讓頁面跑到指定的位置，就必須選單設定好ID名稱後，在其他section區塊，也填寫上同樣的ID名稱。
 
-![](.gitbook/assets/image%20%2851%29.png)
+![](.gitbook/assets/image%20%2852%29.png)
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
 
