@@ -21,7 +21,7 @@
 }
 ```
 
-![](.gitbook/assets/image%20%2842%29.png)
+![](.gitbook/assets/image%20%2843%29.png)
 
 目前影片還無法自動縮放，瀏覽器縮小，影片會被遮住
 

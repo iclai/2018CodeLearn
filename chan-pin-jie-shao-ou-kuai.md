@@ -31,19 +31,19 @@
 
 ```
 
-![](.gitbook/assets/image%20%2838%29.png)
+![](.gitbook/assets/image%20%2839%29.png)
 
 商品照片下方要加入文字介紹
 
-![](.gitbook/assets/image%20%2854%29.png)
+![](.gitbook/assets/image%20%2855%29.png)
 
 設定CSS，美化標題和照片
 
-![](.gitbook/assets/image%20%2834%29.png)
+![](.gitbook/assets/image%20%2835%29.png)
 
 設定產品文字說明區塊
 
-![](.gitbook/assets/image%20%2839%29.png)
+![](.gitbook/assets/image%20%2840%29.png)
 
 ![](.gitbook/assets/image%20%284%29.png)
 

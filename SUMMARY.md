@@ -17,4 +17,5 @@
 * [商品促銷活動區塊](shang-pin-cu-xiao-huo-dong-ou-kuai.md)
 * [商品規格](shang-pin-gui-ge.md)
 * [貼心提醒區塊](tie-xin-ti-xing-ou-kuai.md)
+* [頁腳](ye-jiao.md)
 
