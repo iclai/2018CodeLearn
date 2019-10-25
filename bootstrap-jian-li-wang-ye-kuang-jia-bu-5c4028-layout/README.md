@@ -10,8 +10,6 @@
 
 將Photoshop 設計好的網頁版型，做網頁框架佈局，按照網頁版型，切分成 網頁骨架 header、 nav 、section、 contents、footer。
 
-![](../.gitbook/assets/wang-ye-ban-xing.jpg)
-
 ```markup
 <!-- 網頁抬頭 -->
 <header>
@@ -26,5 +24,9 @@
 <footer></footer>
 ```
 
+![](../.gitbook/assets/index.jpg)
+
 ![](../.gitbook/assets/a02.jpg)
+
+
 
