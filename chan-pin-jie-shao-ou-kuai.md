@@ -37,7 +37,24 @@
 
 ![](.gitbook/assets/image%20%2855%29.png)
 
-設定CSS，美化標題和照片
+設定CSS，美化標題和照片，creative\_area為照片最外框的大區塊，去包照片和文字
+
+```css
+ <!-- 照片組1 -->
+                <div class="col">
+                    <div class="card">
+                        <a href="#"><img alt="產品照片1" src="images/function01.jpg">
+                            <div class="card-title-wrap">
+                                <span class="card-title">單手簡易操作</span>
+                                <span class="card-text">好握電木材質</span>
+                            </div>
+                            <div class="pic-hover">
+                                <h4>輕鬆使用，一點都不費力。</h4>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+```
 
 ![](.gitbook/assets/image%20%2835%29.png)
 

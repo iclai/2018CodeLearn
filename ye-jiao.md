@@ -23,7 +23,11 @@
     </footer>
 ```
 
-**\`\`**[**`justify-content-center`**](https://bootstrap.hexschool.com/docs/4.0/utilities/flex/)**\`\`**
+Bootstrap有許多內建針對網頁網格管理排版的對其方式，可以自行閱讀bootstrap網頁使用說明。
+
+**\`\`**[**`justify-content-cente`**](https://bootstrap.hexschool.com/docs/4.0/utilities/flex/)**我要讓頁腳文字區塊置中，當然你可以不只有文字，也可以置入圖片**
+
+**\`\`**
 
 ```css
 /* 頁腳 */

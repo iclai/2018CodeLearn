@@ -1,5 +1,5 @@
 ---
-description: 製作抬頭Banner，將其背景填滿
+description: 你可以選擇要製作抬頭Banner，將其背景填滿
 ---
 
 # header背景圖片
