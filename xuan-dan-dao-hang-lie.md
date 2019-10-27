@@ -104,6 +104,8 @@
 * **`data-toggle`**是指事件觸發，JavaScript用的，**`data-toggle`**後面指定觸發的形式要怎麼顯示，有可能是tab\(頁籤\)、dropdown\(下拉\)形式，我們目前網頁用**`collapse`**\(摺疊\)形式。
 * **`data-target`** 定義你的按鈕要對應的對象，ID名稱自己設定。
 
+#### Bootsrtap 內建範本，都可以copy，再貼上自己的網頁來用
+
 ![&#x4E0B;&#x62C9;&#x9078;&#x55AE;&#x5F62;&#x5F0F;](.gitbook/assets/a08.jpg)
 
 ![&#x9801;&#x7C64;&#x5F62;&#x5F0F;](.gitbook/assets/a07.jpg)
