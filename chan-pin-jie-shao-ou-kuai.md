@@ -4,7 +4,7 @@
 
 
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 在Bootstrap中，有一個[**`card`**](https://bootstrap.hexschool.com/docs/4.2/components/card/)元件，可以運用，所以我們將照片套入
 
@@ -31,11 +31,11 @@
 
 ```
 
-![](.gitbook/assets/image%20%2839%29.png)
+![](.gitbook/assets/image%20%2843%29.png)
 
 商品照片下方要加入文字介紹
 
-![](.gitbook/assets/image%20%2855%29.png)
+![](.gitbook/assets/image%20%2859%29.png)
 
 設定CSS，美化標題和照片，creative\_area為照片最外框的大區塊，去包照片和文字
 
@@ -56,11 +56,11 @@
                 </div>
 ```
 
-![](.gitbook/assets/image%20%2835%29.png)
+![](.gitbook/assets/image%20%2838%29.png)
 
 設定產品文字說明區塊
 
-![](.gitbook/assets/image%20%2840%29.png)
+![](.gitbook/assets/image%20%2844%29.png)
 
 ![](.gitbook/assets/image%20%284%29.png)
 
@@ -149,5 +149,5 @@
 
 製作好一組完整的相片區塊後，直接複製一組，往下貼上，就有三組產品照片了
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](.gitbook/assets/image%20%2825%29.png)
 

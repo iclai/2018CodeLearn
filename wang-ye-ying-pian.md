@@ -21,11 +21,11 @@
 }
 ```
 
-![](.gitbook/assets/image%20%2843%29.png)
+![](.gitbook/assets/image%20%2847%29.png)
 
 目前影片還無法自動縮放，瀏覽器縮小，影片會被遮住
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](.gitbook/assets/image%20%2836%29.png)
 
 ```css
 .video-container {
@@ -46,5 +46,5 @@
 
 加上以上CSS，影片就會符合螢幕大小自動縮放
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2835%29.png)
 
